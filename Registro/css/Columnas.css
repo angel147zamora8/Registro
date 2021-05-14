@@ -1,0 +1,23 @@
+#columnas{
+    /*ancho*/
+    width: 900px;
+    /*alto*/
+    height: 500px;
+    background-color:  #EE6C4D;
+    margin-top:25px;
+    margin-left: 200px;
+    border-radius: 15px;
+    position: relative;   
+}
+#columna{
+    width: 500px;
+    height: 500px;
+    position: relative;
+}
+#columna2{
+    width: 350px;
+    height: 500px; 
+    margin-top: -480px;
+    margin-left: 525px;
+    position: relative;
+}

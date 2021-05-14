@@ -1,0 +1,124 @@
+
+.circulo {
+    width: 200px;
+    height: 200px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #3D5A80;;
+    margin-left: -78px;
+    margin-top: -14px;
+}
+
+.circulo2 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #EE6C4D;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.circulo3 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #293241;
+    margin-left: 90px;
+    margin-top:  90px;
+    position: relative;
+    z-index: 20;
+}
+
+.circulo4 {
+    width: 500px;
+    height: 500px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #98C1D9;
+    margin-left: 27px;
+    margin-top: -120px;
+    
+}
+.circulo5 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #E0FBFC;;
+    margin-left: 220px;
+    margin-top: -880px;
+}
+
+
+.circulo6 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #293241;
+    margin-left: 400px;
+    margin-top: -190px;
+}
+.circulo7 {
+    width: 500px;
+    height: 500px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #E0FBFC;
+    margin-left: 650px;
+    margin-top: -370px;
+}
+
+.circulo8 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #98C1D9;
+    margin-left: 1120px;
+    margin-top: -135px;
+}
+
+.circulo9 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #3D5A80;
+    margin-left: 1257px;
+    margin-top: 20px;
+}
+
+.circulo10 {
+    width: 250px;
+    height: 250px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #EE6C4D;
+    margin-left: 1125px;
+    margin-top: 75px;
+    position: relative;
+}
+
+.circulo11 {
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #E0FBFC;;
+    margin-left: 850px;
+    margin-top: -160px;
+}

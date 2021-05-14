@@ -1,5 +1,5 @@
 body{
-    overflow: hidden;
+    /*overflow: hidden;*/
     padding-left: 25px;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -16,4 +16,11 @@ body{
 
 #Guardar{
     margin-bottom: 20px;
+    background-color: #3D5A80;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
 }

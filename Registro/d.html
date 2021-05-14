@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+.contenedor {
+    text-align: left;
+    width: 100%;
+    margin: auto;
+    border-radius: 15px;
+   }
+   
+   .columna1 {
+    width: 75%;
+    float: left;
+    background-color: #FFFFFF;
+    border:#000000 1px solid; /* ponemos un donde para que se vea bonito */
+   }
+   .columna2 {
+    width: 20%;  /* Este será el ancho que tendrá tu columna */
+    background-color: #EE6C4D;  /* Aquí pon el color del fondo que quieras para este lateral */
+    float:right; /* Aquí determinas de lado quieres quede esta "columna" */
+   }
+   
+</style>
+<body>
+    <div class="contenedor">
+
+        <div class="columna1">
+          <img  src="./img/pexels-photo-3184460.webp" alt="">
+          
+        </div>
+    
+        <div class="columna2">
+     <form action="#">
+            <div id="title">
+                <h1> Registro.</h1>
+            </div>
+    
+            <div class="mb-3">
+                <label for="phonen" class="form-label">Phonen</label>
+                <input type="tel" id="phonen" class="form-control" id="exampleFormControlInput1" placeholder="4xxxxxxxxx">
+              </div>
+    
+              <div class="mb-3">
+                <label for="Namen" class="form-label">Namen</label>
+                <input type="text" id="namen" class="form-control" id="exampleFormControlInput1">
+              </div>
+    
+              <div class="mb-3">
+                <label for="years" class="form-label">Years</label>
+                <input type="number" id="years" class="form-control" id="exampleFormControlInput1">
+              </div>
+    
+              <div class="d-grid gap-2">
+                <button  id="Guardar" class="btn btn-primary" type="button" onclick="Guardar()">Guardar</button>
+              </div>
+    
+        </form>
+        </div>
+    
+      </div>
+</body>
+</html>
