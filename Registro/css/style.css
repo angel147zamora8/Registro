@@ -7,21 +7,49 @@ body{
 }
 
 #title{
+    position: static;
+    margin-top: 70px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
     font-style: italic;
     font-weight: 500;
     text-align: center;
 }
+#phonen{
+    position: relative;
+    margin-top: 20px;  
+}
 
 #Guardar{
-    margin-top: 2px;
-    margin-bottom: 20px;
+    position: static;
+    margin-top: 5px;
     background-color: #3D5A80;
+    border-radius: 16px;
 }
 img{
     width: 500px;
     height: 500px;
     border-radius: 15px;
     position: relative;
+}
+
+#google{
+    position: absolute;
+width: 360px;
+height: 40px;
+margin-left: -2px;
+margin-top: 45px;
+
+background: #E0FBFC;
+border-radius: 16px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #3D5A80;
 }
