@@ -7,7 +7,8 @@
     margin-top:25px;
     margin-left: 200px;
     border-radius: 15px;
-    position: relative;   
+    position: relative; 
+      
 }
 #columna{
     width: 500px;
@@ -21,3 +22,5 @@
     margin-left: 525px;
     position: relative;
 }
+
+

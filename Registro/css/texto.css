@@ -9,20 +9,20 @@ line-height: 54px;
 
 #or{
     /*linea izquierda*/
-    margin-top: 30px;
-    margin-left: 40px;
+    padding-top: 30px;
+    padding-left: 40px;
     width: 90px;
     height: 0px;
-    left: 854px;
-    top: 633px;
+    padding-left: 10px;
+    padding-top: 0px;
     border: 1px solid #FFFFFF;
     
 }
 
 #or2{
     /*or*/
-margin-top: 45px;
-margin-left: 160px;
+padding-top: 45px;
+padding-left: 0px;
 font-family: Poppins;
 font-style: normal;
 font-weight: bold;
@@ -38,7 +38,51 @@ color: #FFFFFF;
 
 width: 90px;
 height: 0px;
-left: 1080px;
-top: 633px;
+padding-left: 10px;
+padding-top: 0px;
 border: 1px solid #FFFFFF; 
+}
+.input{
+    padding-top: 0px;
+    padding-bottom: 35px;
+}
+#enfoque{
+   position: absolute;
+width: 335px;
+height: 430px;
+margin-left: 80px;
+margin-top: -465px;
+
+background: rgba(224, 251, 252, 0.2);
+backdrop-filter: blur(42px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 14px;
+}
+#caja2{
+    position: absolute;
+width: 136px;
+height: 51px;
+margin-left: 15px;
+margin-top: 10px;
+
+background: rgba(255, 255, 255, 0.4);
+backdrop-filter: blur(66px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 8px;
+
+}
+#text{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 7px;
+    /*texto de caja*/
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+color: #293241;
 }
