@@ -1,124 +1,145 @@
 
-.circulo {
+.circulo1 {
+    position: absolute;
     width: 200px;
     height: 200px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background: #3D5A80;;
-    margin-left: 8px;
-    margin-top: -14px;
+    background: #3D5A80;
+    margin-left: -70px;
+    margin-top: -40px;
 }
 
 .circulo2 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background: #EE6C4D;
-    margin-left: 110px;
-    margin-top: 50px;
+    margin-left: 10px;
+    margin-top: 180px;
 }
 
 .circulo3 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #293241;
-    margin-left: 90px;
-    margin-top:  90px;
-    position: relative;
+    margin-left: 40px;
+    margin-top:  400px;
     z-index: 20;
 }
 
 .circulo4 {
+    position: absolute;
     width: 500px;
     height: 500px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #98C1D9;
-    margin-left: 27px;
-    margin-top: -120px;
+    margin-left: 10px;
+    margin-top: 400px;
     
 }
 .circulo5 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background:  #E0FBFC;;
-    margin-left: 220px;
-    margin-top: -880px;
+    background:  #E0FBFC;
+    margin-left: 250px;
+    margin-top: -20px;
 }
 
 
 .circulo6 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #293241;
-    margin-left: 400px;
-    margin-top: -190px;
+    margin-left: 500px;
+    margin-top: -85px;
 }
 .circulo7 {
-    width: 500px;
-    height: 500px;
+    position: absolute;
+    width: 380px;
+    height: 380px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #E0FBFC;
-    margin-left: 650px;
-    margin-top: -370px;
+    margin-left: 750px;
+    margin-top: -290px;
+    z-index: 5;
 }
 
 .circulo8 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #98C1D9;
-    margin-left: 1120px;
-    margin-top: -135px;
+    margin-left: 1110px;
+    margin-top: 20px;
 }
 
 .circulo9 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #3D5A80;
-    margin-left: 1257px;
-    margin-top: 20px;
+    margin-left: 1200px;
+    margin-top: 200px;
 }
 
 .circulo10 {
+    position: absolute;
     width: 250px;
     height: 250px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     background:  #EE6C4D;
-    margin-left: 1125px;
-    margin-top: 75px;
-    position: relative;
+    margin-left: 1080px;
+    margin-top: 390px;
 }
 
 .circulo11 {
+    position: absolute;
     width: 100px;
     height: 100px;
     -moz-boder-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background:  #E0FBFC;;
-    margin-left: 850px;
-    margin-top: -160px;
+    background:  #E0FBFC;
+    margin-left: 800px;
+    margin-top: 490px;
+}
+.circulo12{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    -moz-boder-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #98C1D9;
+    margin-left: 150px;
+    margin-top: 250px;
 }
